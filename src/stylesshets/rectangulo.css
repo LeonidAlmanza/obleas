@@ -1,0 +1,13 @@
+.rectangulo{
+    display: flex;
+    border-radius: 20px;
+    border-color: black;   
+    height: 300px;
+    width: 700px;
+}
+
+.rectangulo img{
+    height: 300px;
+    width: 700px;
+    border-radius: 20px;
+}

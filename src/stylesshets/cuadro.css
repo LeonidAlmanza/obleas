@@ -1,0 +1,13 @@
+.cuadro{
+    display: flex;
+    border-radius: 20px;
+    border-color: black;   
+    height: 300px;
+    width: 300px;
+}
+
+.cuadro img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
